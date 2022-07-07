@@ -6,5 +6,3 @@ bulletSpeed = 5;
 
 direction = point_direction(x,y,x,y=5)
 speed = bulletSpeed;
-
-audio_play_sound(s_ta,0,0)
